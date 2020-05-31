@@ -30,7 +30,7 @@ twitter_username: mashbourne
 github_username:  mikeashbourne
 
 # Build settings
-theme: hitchens
+theme: hitchens-theme
 plugins:
   - jekyll-feed
 
